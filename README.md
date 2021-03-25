@@ -16,7 +16,7 @@ See the [Troubleshooting](https://gotopage.com) section for additional assistanc
 
 ### Topics
  - [Accessing PHMC](https://gotopage.com)
-   - [Requesting/Changing Access in Secure](https://gotopage.com)
+   - [Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)
    - [First Time Account Activation](https://gotopage.com)
    - [Direct URL Login](https://gotopage.com)
    - [Accessing from ICUE](https://gotopage.com)

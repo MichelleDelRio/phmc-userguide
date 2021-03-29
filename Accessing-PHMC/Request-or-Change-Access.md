@@ -6,8 +6,10 @@
   First Time Account Activation         
   Direct URL Login                      
   Accessing from ICUE                   
-  Signing Out                           
+  Signing Out |                           
 
+  [More Topics](https://github.com/MichelleDelRio/phmc-userguide)
+  
 ## Requesting or Changing Access in Secure
 
 1. Access the UHG hub using this URL link [https://hub.uhg.com/](https://hub.uhg.com/) \

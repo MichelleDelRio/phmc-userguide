@@ -30,46 +30,46 @@ See the [Troubleshooting](https://gotopage.com) section for additional assistanc
 |<table><tr><th>Group Mailbox Message Management</th></tr><tr><td>Select a Display Name</td></tr><tr><td>View the Designated Owner</td></tr><tr><td>View User Mailbox Properties</td></tr><tr><td>Compose a Group Mailbox Message</td></tr><tr><td>Reply to a Group Mailbox Message</td></tr><tr><td>View Checkout History</td></tr></table>| <table> <tr><th>Administrative</th></tr><tr><td>Manage Your Agent ID</td></tr><tr><td>Storing/Reviewing Documents</td></tr><tr><td>Editing an Email Address</td></tr><tr><td>Running Reports</td></tr><tr><td>Template of Article Change Requests</td></tr> </table>| <table> <tr><th>Troubleshooting</th></tr><tr><td>Common Issues</td></tr><tr><td>Resending an Activation Email</td></tr></table>|
 
 ### Topics
- - [Accessing PHMC](https://gotopage.com)
+ - **Accessing PHMC**
    - [Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)
    - [First Time Account Activation](https://gotopage.com)
    - [Direct URL Login](https://gotopage.com)
    - [Accessing from ICUE](https://gotopage.com)
    - [Signing Out](https://gotopage.com)
- - [Navigating PHMC Homepage](https://gotopage.com)
- - [Update/View Default Settings](https://gotopage.com)
+ - **Navigating PHMC Homepage**
+ - **Update/View Default Settings**
    - [Allow Reply](https://gotopage.com)
    - [Signatures](https://gotopage.com)
    - [Subject/From Settings](https://gotopage.com)
- - [My Mailbox - Message Management](https://gotopage.com)
+ - **My Mailbox - Message Management**
    - [Sending a New Message](https://gotopage.com)
    - [Replying to a Message](https://gotopage.com)
    - [Forwarding a Message](https://gotopage.com)
    - [Locate a Message/Thread ID](https://gotopage.com)
    - [Advanced Search - View Sent Message](https://gotopage.com)
- - [My Mailbox Functions](https://gotopage.com)
+ - **My Mailbox Functions**
    - [Creating and Managing Custom Folders](https://gotopage.com)
    - [Move Multiple Messages to a Folder](https://gotopage.com)
- - [Group Mailbox Administration](https://gotopage.com)
+ - **Group Mailbox Administration**
    - [View the Group Mailbox Inventory](https://gotopage.com)
    - [Add a New Group](https://gotopage.com)
    - [Add New Group Mailbox](https://gotopage.com)
    - [Manage Group Mailbox Auto Replies](https://gotopage.com)
    - [Set Check Out Limit](https://gotopage.com)
    - [Set Service Level Agreement Notifications](https://gotopage.com)
- - [Group Mailbox Message Management](https://gotopage.com)
+ - **Group Mailbox Message Management**
    - [Select a Display Name](https://gotopage.com)
    - [View the Designated Owner](https://gotopage.com)
    - [View User Mailbox Properties](https://gotopage.com)
    - [Compose a Group Mailbox Message](https://gotopage.com)
    - [Reply to a Group Mailbox Message](https://gotopage.com)
    - [View Check Out History](https://gotopage.com)
- - [Administrative](https://gotopage.com)
+ - **Administrative**
    - [Manage Your Agent ID](https://gotopage.com)
    - [Storing/Reviewing Documents](https://gotopage.com)
    - [Editing an Email Address](https://gotopage.com)
    - [Running Reports](https://gotopage.com)
    - [Template or Article Change Requests](https://gotopage.com)
- - [Troubleshooting](https://gotopage.com)
+ - **Troubleshooting**
    - [Common Issues](https://gotopage.com)
    - [Resending an Activation Email](https://gotopage.com)

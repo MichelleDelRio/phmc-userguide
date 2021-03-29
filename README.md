@@ -13,18 +13,21 @@ The sections indicating ‘Consumer/Member View’ are specific to what consumer
 > For questions and/or assistance regarding Agent ID, contact Optum Support at 855-819-5909. \
 See the [Troubleshooting](https://gotopage.com) section for additional assistance. 
 
+&nbsp;
+
+### Topics
 
 |1|2 |3|
-|--|--|--|
-|<table><tr><th>Accessing PHMC</th></tr><tr><td>[Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)</td></tr><tr><td>First Time Account Activation</td></tr><tr><td>Direct URL Login</td></tr><tr><td>Accessing from ICUE</td></tr><tr><td>Signing  Out</td></tr></table>| <table> <tr><th>Navigating PHMC</th></tr><tr><td>Homepage Navigation</td></tr> </table>| <table> <tr><th>Update/View Default Settings</th></tr><tr><td>Allow Reply</td></tr><tr><td>Signatures</td></tr><tr><td>Subject/From Settings</td></tr></table>|
+|--|:--:|--:|
+|<table><tr><th>Accessing PHMC</th></tr><tr><td>[Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)</td></tr><tr><td>First Time Account Activation</td></tr><tr><td>Direct URL Login</td></tr><tr><td>Accessing from ICUE</td></tr><tr><td>Signing  Out</td></tr></table>| <table> <tr><th>Navigation</th></tr><tr><td>Navigating PHMC Homepage</td></tr> </table>| <table> <tr><th>Update or View Default Settings</th></tr><tr><td>Allow Reply</td></tr><tr><td>Signatures</td></tr><tr><td>Subject/From Settings</td></tr></table>|
 
 |4|5 |6|
 |--|--|--|
-|<table><tr><th>My Mailbox: Message Management</th></tr><tr><td>Sending a New Message</td></tr><tr><td>Replying to a Message</td></tr><tr><td>Forwarding a Message</td></tr><tr><td>Locate a Message Thread ID</td></tr><tr><td>Advanced Search - View Sent Message</td></tr></table>| <table> <tr><th>My Mailbox Functions</th></tr><tr><td>Creating and Managing Custom Folders</td></tr><tr><td>Move Multiple Messages</td></tr> </table>| <table> <tr><th>Group Mailbox Admiministration</th></tr><tr><td>View Mailbox Inventory</td></tr><tr><td>Add New Group</td></tr><tr><td>Add New Group Mailbox</td></tr><tr><td>Manage Group Mailbox Auto Replies</td></tr><tr><td>Set Checkout Limit<tr><td>Set Service Level Agreement Notifications</td></tr></td></tr></table>|
+|<table><tr><th>My Mailbox: Message Management</th></tr><tr><td>Sending a New Message</td></tr><tr><td>Replying to a Message</td></tr><tr><td>Forwarding a Message</td></tr><tr><td>Locate a Message Thread ID</td></tr><tr><td>Advanced Search - View Sent Message</td></tr></table>| <table> <tr><th>My Mailbox Functions</th></tr><tr><td>Create and Manage Custom Folders</td></tr><tr><td>Move Multiple Messages</td></tr> </table>| <table> <tr><th>Group Mailbox Administration</th></tr><tr><td>View Mailbox Inventory</td></tr><tr><td>Add New Group</td></tr><tr><td>Add New Group Mailbox</td></tr><tr><td>Manage Group Mailbox Auto Replies</td></tr><tr><td>Set Checkout Limit<tr><td>Set Service Level Agreement Notifications</td></tr></td></tr></table>|
 
 |7|8 |9|
 |--|--|--|
-|<table><tr><th>Group Mailbox Message Management</th></tr><tr><td>Select a Display Name</td></tr><tr><td>View the Designated Owner</td></tr><tr><td>View User Mailbox Properties</td></tr><tr><td>Compose a Group Mailbox Message</td></tr><tr><td>Reply to a Group Mailbox Message</td></tr><tr><td>View Checkout History</td></tr></table>| <table> <tr><th>Administrative</th></tr><tr><td>Manage Your Agent ID</td></tr><tr><td>Storing/Reviewing Documents</td></tr><tr><td>Editing an Email Address</td></tr><tr><td>Running Reports</td></tr><tr><td>Article Change Requests Template</td></tr> </table>| <table> <tr><th>Troubleshooting</th></tr><tr><td>common Issues</td></tr><tr><td>Resending an Activation Email</td></tr></table>|
+|<table><tr><th>Group Mailbox Message Management</th></tr><tr><td>Select a Display Name</td></tr><tr><td>View the Designated Owner</td></tr><tr><td>View User Mailbox Properties</td></tr><tr><td>Compose a Group Mailbox Message</td></tr><tr><td>Reply to a Group Mailbox Message</td></tr><tr><td>View Checkout History</td></tr></table>| <table> <tr><th>Administrative</th></tr><tr><td>Manage Your Agent ID</td></tr><tr><td>Storing/Reviewing Documents</td></tr><tr><td>Editing an Email Address</td></tr><tr><td>Running Reports</td></tr><tr><td>Template of Article Change Requests</td></tr> </table>| <table> <tr><th>Troubleshooting</th></tr><tr><td>Common Issues</td></tr><tr><td>Resending an Activation Email</td></tr></table>|
 
 ### Topics
  - [Accessing PHMC](https://gotopage.com)

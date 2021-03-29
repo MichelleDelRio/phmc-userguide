@@ -15,10 +15,12 @@ See the [Troubleshooting](https://gotopage.com) section for additional assistanc
 
 &nbsp;
 
+*Table of Contents Style A*
+
 ### Topics
 
 |1|2 |3|
-|--|:--:|--:|
+|--|--|--|
 |<table><tr><th>Accessing PHMC</th></tr><tr><td>[Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)</td></tr><tr><td>First Time Account Activation</td></tr><tr><td>Direct URL Login</td></tr><tr><td>Accessing from ICUE</td></tr><tr><td>Signing  Out</td></tr></table>| <table> <tr><th>Navigation</th></tr><tr><td>Navigating PHMC Homepage</td></tr> </table>| <table> <tr><th>Update or View Default Settings</th></tr><tr><td>Allow Reply</td></tr><tr><td>Signatures</td></tr><tr><td>Subject/From Settings</td></tr></table>|
 
 |4|5 |6|
@@ -29,6 +31,21 @@ See the [Troubleshooting](https://gotopage.com) section for additional assistanc
 |--|--|--|
 |<table><tr><th>Group Mailbox Message Management</th></tr><tr><td>Select a Display Name</td></tr><tr><td>View the Designated Owner</td></tr><tr><td>View User Mailbox Properties</td></tr><tr><td>Compose a Group Mailbox Message</td></tr><tr><td>Reply to a Group Mailbox Message</td></tr><tr><td>View Checkout History</td></tr></table>| <table> <tr><th>Administrative</th></tr><tr><td>Manage Your Agent ID</td></tr><tr><td>Storing/Reviewing Documents</td></tr><tr><td>Editing an Email Address</td></tr><tr><td>Running Reports</td></tr><tr><td>Template of Article Change Requests</td></tr> </table>| <table> <tr><th>Troubleshooting</th></tr><tr><td>Common Issues</td></tr><tr><td>Resending an Activation Email</td></tr></table>|
 
+&nbsp;
+&nbsp;
+&nbsp;
+*Table of Contents Style B*
+
+### Topics
+|Accessing PHMC|Navigation |Update or View Default Settings|
+|--|--|--|
+|<table><tr></tr><tr><td>[Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)</td></tr><tr><td>First Time Account Activation</td></tr><tr><td>Direct URL Login</td></tr><tr><td>Accessing from ICUE</td></tr><tr><td>Signing  Out</td></tr></table>| <table> <tr></tr><tr><td>Navigating PHMC Homepage</td></tr> </table>| <table> <tr></tr><tr><td>Allow Reply</td></tr><tr><td>Signatures</td></tr><tr><td>Subject/From Settings</td></tr></table>|
+
+&nbsp;
+&nbsp;
+
+*Table of Contents Style C*
+
 ### Topics
  - **Accessing PHMC**
    - [Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)
@@ -36,7 +53,7 @@ See the [Troubleshooting](https://gotopage.com) section for additional assistanc
    - [Direct URL Login](https://gotopage.com)
    - [Accessing from ICUE](https://gotopage.com)
    - [Signing Out](https://gotopage.com)
- - **Navigating PHMC Homepage**
+ - [Navigating PHMC Homepage](https://gotopage.com)
  - **Update/View Default Settings**
    - [Allow Reply](https://gotopage.com)
    - [Signatures](https://gotopage.com)

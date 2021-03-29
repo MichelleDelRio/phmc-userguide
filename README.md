@@ -10,9 +10,22 @@ Internal users of PHMC may be referred to as Agent or User. \
 The terms Consumer and Member refers to external users and are used interchangeably in this document. \
 The sections indicating ‘Consumer/Member View’ are specific to what consumer/members may experience as they use the online application.
 
->For questions and/or assistance regarding Agent ID, contact Optum Support at 855-819-5909. \
-See the [Troubleshooting](https://gotopage.com) section for additional assistance.
+> For questions and/or assistance regarding Agent ID, contact Optum Support at 855-819-5909. \
+See the [Troubleshooting](https://gotopage.com) section for additional assistance. 
 
+
+| [Accessing PHMC](https://gotopage.com)  | [Navigating PHMC Homepage](https://gotopage.com)  | [Update View Default Settings](https://gotopage.com)  | [My Mailbox - Message Management](https://gotopage.com)  |   
+|---|---|---|---|
+|  [Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md) |   |   |   |   
+|  [First Time Account Activation](https://gotopage.com) |   |   |   |   
+|  [Direct URL Login](https://gotopage.com)|   |   |   |  
+|  [Accessing from ICUE](https://gotopage.com) 
+|  [Signing Out](https://gotopage.com)|
+
+
+|1|2 |3|
+|--|--|--|
+|<table><tr><th>Accessing PHMC</th></tr><tr><td>[Requesting/Changing Access in Secure](https://github.com/MichelleDelRio/phmc-userguide/blob/main/Accessing-PHMC/Request-or-Change-Access.md)</td></tr><tr><td>First Time Account Activation</td></tr></table>| <table> <tr><th>Navigating PHMC</th></tr><tr><td>Row 1 Column 1</td></tr> </table>| <table> <tr><th>View Default Settings</th></tr><tr><td>Row 1 Column 1</td></tr> </table>|
 
 ### Topics
  - [Accessing PHMC](https://gotopage.com)
@@ -22,7 +35,7 @@ See the [Troubleshooting](https://gotopage.com) section for additional assistanc
    - [Accessing from ICUE](https://gotopage.com)
    - [Signing Out](https://gotopage.com)
  - [Navigating PHMC Homepage](https://gotopage.com)
- - [Update View Default Settings](https://gotopage.com)
+ - [Update/View Default Settings](https://gotopage.com)
    - [Allow Reply](https://gotopage.com)
    - [Signatures](https://gotopage.com)
    - [Subject/From Settings](https://gotopage.com)
